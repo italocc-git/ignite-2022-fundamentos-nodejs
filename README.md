@@ -27,16 +27,7 @@ Utiliza dados em memória(array) para realizar os testes das rotas. Operações 
 ## Back end
 Pré-requisitos: Java 11
 
-```bash
-# clonar repositório
-git clone https://github.com/italocc-git/ignite-2022-fundamentos-nodejs.git
 
-# entrar na pasta do projeto 
-cd ignite-2022-fundamentos-nodejs
-
-# executar o projeto
-./mvnw spring-boot:run
-```
 
 ```bash
 # clonar repositório
@@ -51,3 +42,8 @@ yarn install / npm install
 # executar o projeto
 yarn dev / npm run dev
 ```
+# Autor
+
+Italo Costa Cavalcante
+
+https://www.linkedin.com/in/italo-costa-cavalcante/
