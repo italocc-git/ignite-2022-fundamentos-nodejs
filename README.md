@@ -25,9 +25,7 @@ Utiliza dados em memória(array) para realizar os testes das rotas. Operações 
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
-
-
+Pré-requisitos: Node (min versão 14)
 
 ```bash
 # clonar repositório
