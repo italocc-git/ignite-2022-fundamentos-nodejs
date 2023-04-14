@@ -2,45 +2,45 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/italocc-git/ignite-2022-fundamentos-nodejs/blob/main/LICENSE) 
 
 
-API básica com operações CRUD para o cadastramento de tarefas. Esse projeto foi implementado no módulo 1 do curso ignite Node da Rocketseat. 
-Utiliza dados em memória(array) para realizar os testes das rotas. Operações básicas como Create, Update, Delete, Patch e Get estão nesse projeto.
+Basic API with CRUD operations for registering tasks. This project was implemented in module 1 of Rocketseat's ignite Node course.
+It uses data in memory (array) to perform route tests. Basic operations like Create, Update, Delete, Patch and Get are in this project.
 
-# Funcionalidades
+# Features
 
-- Verificação de autenticação do usuário nas rotas, exceto no cadastramento de usuário.
-- Cadastramento de tarefa
-- Cadastramento de usuário
-- Listagem de tarefas
-- Alteração de tarefa
-- Atualização de tarefa para feita.
+- Verification of user authentication in routes, except in user registration.
+- Task registration
+- User registration
+- To-do list
+- task change
+- Task update to done.
 
 
-# Tecnologias utilizadas
+# Technologies
 ## Back end
 - Express
 - Uuid
 - Jest
 - Cors
 
-# Como executar o projeto
+# How to run the project
 
 ## Back end
-Pré-requisitos: Node (min versão 14)
+Required : Node (min versão 14)
 
 ```bash
-# clonar repositório
+# clone the git repository
 git clone [https://github.com/italocc-git/coffee-delivery.git](https://github.com/italocc-git/ignite-2022-fundamentos-nodejs.git)
 
-# entrar na pasta do projeto todo-API
+# enter the project folder
 cd ignite-2022-fundamentos-nodejs
 
-# instalar dependências
+# install the dependencies
 yarn install / npm install
 
-# executar o projeto
+# run the project
 yarn dev / npm run dev
 ```
-# Autor
+# Author
 
 Italo Costa Cavalcante
 
