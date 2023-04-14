@@ -29,7 +29,7 @@ Required : Node (min versão 14)
 
 ```bash
 # clone the git repository
-git clone [https://github.com/italocc-git/coffee-delivery.git](https://github.com/italocc-git/ignite-2022-fundamentos-nodejs.git)
+git clone https://github.com/italocc-git/coffee-delivery.git](https://github.com/italocc-git/ignite-2022-fundamentos-nodejs.git
 
 # enter the project folder
 cd ignite-2022-fundamentos-nodejs
